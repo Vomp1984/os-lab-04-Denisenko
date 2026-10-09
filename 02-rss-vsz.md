@@ -10,8 +10,11 @@
 |1289100|73484|
 |1050800|52420|  
 <img width="923" height="107" alt="image" src="https://github.com/user-attachments/assets/ecc04b1a-9278-4e3f-9bcc-6d8864aab3e6" />  
+  
 Первая программа  
+  
 <img width="520" height="193" alt="image" src="https://github.com/user-attachments/assets/46281743-1d3c-4e95-960d-ef02d894b2a6" />  
+  
 Вторая программа  
 
 VZS - память которую процесс запросил для выполнения своих функций(максимум который будет необходим при максимальной нагрузке).  
